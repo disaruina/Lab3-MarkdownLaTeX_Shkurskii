@@ -1,0 +1,5 @@
+[Github](https://github.com/disaruina/Lab3-MarkdownLaTeX_Shkurskii)
+[Markdown](https://www.markdownguide.org/)
+[Скрин задания](/img/separatorsCommitLab3_Shkurskii.png)
+[Скрин задания](/img/formattingCommitLab3_Shkurskii.png)
+[Шортс с ютуба](https://youtube.com/shorts/docoSnIywog?si=XD1SnZycIJJorOLV)
